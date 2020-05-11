@@ -1,0 +1,126 @@
+@charset "iso-8859-9";
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: lightslategray;
+}
+#anakapsayici {
+	height: auto;
+	width: 1050px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	padding-top: 10px;
+}
+#menu {
+	height: 35px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color:lightslategray;
+	margin-top: 0px;
+}
+
+.kutuicerik {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 10px;
+	text-align: justify;
+}
+#banner {
+	height: 220px;
+	width: 900px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+	background-image:url('asd.png');
+	object-fit: fill;
+	
+	border: 1px dashed #CCC;
+}
+
+#icerik {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	color: #00F;
+	height: 335px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#kutu_alani {
+	background-color: #edecec;
+	height: 600px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#kutu1 {	
+	height: 370px;
+	width: 412px;
+	margin-top: 5px;
+	margin-right: 1px;
+	margin-bottom: 5px;
+	margin-left: -6	px;
+	float: left;
+	background-color: lightgrey;
+	padding: 10px;
+	border: 1px dashed #CCC;
+}
+
+#kutu2 {
+	float: left;
+	height: 370px;
+	width: 411px;
+	margin-top: 5px;
+	margin-right: 12px;
+	margin-bottom: 5px;
+	background-color: lightgrey;
+	margin-left: 20px;
+	padding: 10px;
+	border: 1px dashed #CCC;
+}
+#kutu3 {
+	float: left;
+	height: 165px;
+	width: 414px;
+	margin-top: 5px;
+	margin-right: 26px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+	background-color: lightgrey;
+	padding: 10px;
+	border: 1px dashed #CCC;
+}
+#kutu4 {
+	float: left;
+	height: 165px;
+	width: 402px;
+	margin-top: 5px;
+	margin-right: 19px;
+	margin-bottom: 0px;
+	margin-left: -5px;
+	background-color: lightgrey;
+	padding: 10px;
+	border: 1px dashed #CCC;
+}
+#temizleyici {
+	clear: both;
+}
+#footer {
+	background-color: #f7f7f7;
+	height: 30px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
